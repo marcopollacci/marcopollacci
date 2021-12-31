@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning <b>Angular</b> and <b>StencilJS</b>
 - 💬 Ask me about anything, I'm happy to help!
 
+[![wakatime](https://wakatime.com/badge/user/2729ac0c-0ebb-4599-b424-3a6648627bff.svg)](https://wakatime.com/@2729ac0c-0ebb-4599-b424-3a6648627bff) of coding since 1 Feb 2021
+
 <img src="https://github-readme-stats.vercel.app/api?username=marcopollacci&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="80%"/>
 
 <!--
