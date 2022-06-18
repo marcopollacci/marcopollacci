@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <b><a href="https://github.com/marcopollacci/mp-web-component"> mp-web-component</a></b> My personal <b>Web Component</b> library build with <b>StencilJS</b>
-- 🌱 I’m currently learning <b>Angular</b> and <b>StencilJS</b>
+- 🌱 I’m currently learning <b>Angular</b> and <b>Lit</b>
 - 💬 Ask me about anything, I'm happy to help!
 
 [![wakatime](https://wakatime.com/badge/user/2729ac0c-0ebb-4599-b424-3a6648627bff.svg)](https://wakatime.com/@2729ac0c-0ebb-4599-b424-3a6648627bff) of coding since 1 Feb 2021
