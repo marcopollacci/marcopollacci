@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning <b>NextJS</b>, <b>Lit</b> and i love <b>Signal</b>
+- 🌱 I’m currently improving <b>Angular</b>, <b>Lit</b> and <b>Signal</b>
 - 💬 Ask me about anything, I'm happy to help!
 
 [![wakatime](https://wakatime.com/badge/user/2729ac0c-0ebb-4599-b424-3a6648627bff.svg)](https://wakatime.com/@2729ac0c-0ebb-4599-b424-3a6648627bff) of coding since 1 Feb 2021
