@@ -4,7 +4,7 @@ Hi 👋 My name is Marco Pollacci
 I'm a Software Engineer totally in love with FronEnd and Javascript
 
 * 🌍  I'm based in Italy
-* 🖥️  See my portfolio at [My Website](http://marcopollacci.it)
+* 🖥️  See my [Website](http://marcopollacci.it)
 * 🧠  I'm improving Angular, Lit and Signal
 * 💬  Ask me about anything, I'm happy to help!
 
